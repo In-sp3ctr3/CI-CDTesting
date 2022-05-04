@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 id='headerTitle' className={styles.title}>
-          Welcome to My NEW Sample Application!
+          Welcome to My test CI/CD application NEW Sample Application!
         </h1>
 
         <p className={styles.description}>
